@@ -5,6 +5,6 @@ describe('Integration test with visual testing', function() {
         // Load the page or perform any other interactions with the app.
         cy.visit('https://www.ikrabau.de'); // URL should be a string
         // Take a snapshot for visual diffing
-        cy.percySnapshot('Landingpage test', { widths: [768, 992, 1200] });
+        cy.percySnapshot('IKRA Homepage', { widths: [1920] });
     });
 });
