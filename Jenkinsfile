@@ -14,6 +14,8 @@ pipeline {
         }
         stage('Testing') {
             steps {
+                sh "npm install cypress --save-dev"
+                sh "npm install --save-dev @percy/cli @percy/cypress"
                 sh "npx percy exec -- cypress run"
             }
         }
