@@ -1,17 +1,17 @@
 {
   "name": "PercyTest",
   "version": "1.0.0",
-  "description": "Your project description",
+  "description": "Your project description here",
   "main": "index.js",
   "scripts": {
     "test": "cypress run",
     "test:percy": "percy exec -- cypress run"
   },
   "devDependencies": {
-    "cypress": "^9.0.0",   // Use the latest version compatible with your project
-    "@percy/cli": "^1.0.0", // Use the latest version compatible with your project
-    "@percy/cypress": "^3.0.0" // Use the latest version compatible with your project
+    "cypress": "^9.0.0",
+    "@percy/cli": "^1.0.0",
+    "@percy/cypress": "^3.0.0"
   },
-  "author": "OEM",
+  "author": "Your Name",
   "license": "MIT"
 }
