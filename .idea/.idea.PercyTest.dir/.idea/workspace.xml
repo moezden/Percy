@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0ed4196-3e65-4ef7-aa4f-49e9b7888f2a" name="Changes" comment="ds" />
+    <list default="true" id="d0ed4196-3e65-4ef7-aa4f-49e9b7888f2a" name="Changes" comment="ds">
+      <change beforePath="$PROJECT_DIR$/cypress.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +59,7 @@
       <workItem from="1706260783431" duration="622000" />
       <workItem from="1706283522364" duration="1999000" />
       <workItem from="1706285643754" duration="642000" />
-      <workItem from="1706286289598" duration="3412000" />
+      <workItem from="1706286289598" duration="3749000" />
     </task>
     <task id="LOCAL-00001" summary="Create README.md">
       <created>1705769422819</created>
@@ -262,7 +264,21 @@
       <option name="project" value="LOCAL" />
       <updated>1706289343779</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="ds">
+      <created>1706289786212</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1706289786212</updated>
+    </task>
+    <task id="LOCAL-00031" summary="ds">
+      <created>1706289959975</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1706289959975</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

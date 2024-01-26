@@ -5,10 +5,8 @@ module.exports = defineConfig({
     // Your project's URL
     baseUrl: 'http://localhost:8080',
     supportFile: false,
-    specPattern: 'cypress/e2e/**/*.cy.{js,jsx,ts,tsx}',
-
-    // Paths to your integration test files
-    specPattern: 'cypress/integration/**/*.cy.{js,jsx,ts,tsx}',
+    specPattern: 'cypress/e2e/PercyTest/*.cy.{js,jsx,ts,tsx}',
+    
 
     // Path to your support files
     supportFile: 'cypress/support/index.js',
