@@ -12,6 +12,6 @@
     "@percy/cli": "^1.0.0", // Use the latest version compatible with your project
     "@percy/cypress": "^3.0.0" // Use the latest version compatible with your project
   },
-  "author": "Your Name",
+  "author": "OEM",
   "license": "MIT"
 }
