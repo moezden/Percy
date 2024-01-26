@@ -4,6 +4,7 @@ module.exports = defineConfig({
   e2e: {
     // Your project's URL
     baseUrl: 'http://localhost:8080',
+    supportFile: false,
 
     // Paths to your integration test files
     specPattern: 'cypress/integration/**/*.cy.{js,jsx,ts,tsx}',
