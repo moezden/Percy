@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0ed4196-3e65-4ef7-aa4f-49e9b7888f2a" name="Changes" comment="as">
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="d0ed4196-3e65-4ef7-aa4f-49e9b7888f2a" name="Changes" comment="ds">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSON File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
@@ -55,7 +62,7 @@
       <workItem from="1706260783431" duration="622000" />
       <workItem from="1706283522364" duration="1999000" />
       <workItem from="1706285643754" duration="642000" />
-      <workItem from="1706286289598" duration="2329000" />
+      <workItem from="1706286289598" duration="2716000" />
     </task>
     <task id="LOCAL-00001" summary="Create README.md">
       <created>1705769422819</created>
@@ -211,7 +218,28 @@
       <option name="project" value="LOCAL" />
       <updated>1706288439136</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="json">
+      <created>1706288626371</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1706288626371</updated>
+    </task>
+    <task id="LOCAL-00024" summary="json">
+      <created>1706288730843</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1706288730843</updated>
+    </task>
+    <task id="LOCAL-00025" summary="ds">
+      <created>1706288831746</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1706288831746</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +280,8 @@
     <MESSAGE value="fix token" />
     <MESSAGE value="fx" />
     <MESSAGE value="as" />
-    <option name="LAST_COMMIT_MESSAGE" value="as" />
+    <MESSAGE value="json" />
+    <MESSAGE value="ds" />
+    <option name="LAST_COMMIT_MESSAGE" value="ds" />
   </component>
 </project>

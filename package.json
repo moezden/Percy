@@ -8,10 +8,9 @@
     "test:percy": "percy exec -- cypress run"
   },
   "devDependencies": {
-    "cypress": "^9.0.0",
+    "cypress": "13.6.3",
     "@percy/cli": "^1.0.0",
     "@percy/cypress": "^3.0.0"
   },
   "author": "Your Name",
   "license": "MIT"
-}
