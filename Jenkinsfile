@@ -9,7 +9,7 @@ pipeline{
         stage('Testing'){
             steps{
                 bat "npx percy exec -- cypress run"
-        }
+        }}
         stage('Executed'){
             echo "erfolgreich ausgeführt"
         }        
