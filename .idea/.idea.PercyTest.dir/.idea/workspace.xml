@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0ed4196-3e65-4ef7-aa4f-49e9b7888f2a" name="Changes" comment="fix token" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/cypress/e2e/PercyTest/percytest.cy.js" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2bE7zUy0eaPTLUUtklvleX6wyU8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0ed4196-3e65-4ef7-aa4f-49e9b7888f2a" name="Changes" comment="" />
+      <created>1705768647980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705768647980</updated>
+      <workItem from="1705768649666" duration="1369000" />
+      <workItem from="1705770030000" duration="15785000" />
+      <workItem from="1706260783431" duration="622000" />
+      <workItem from="1706283522364" duration="1999000" />
+      <workItem from="1706285643754" duration="642000" />
+      <workItem from="1706286289598" duration="1924000" />
+    </task>
+    <task id="LOCAL-00001" summary="Create README.md">
+      <created>1705769422819</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705769422819</updated>
+    </task>
+    <task id="LOCAL-00002" summary="tst">
+      <created>1705770670131</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705770670131</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1. live test ikra">
+      <created>1705777088584</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705777088584</updated>
+    </task>
+    <task id="LOCAL-00004" summary="percy-figma temp.yml">
+      <created>1706185801072</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706185801072</updated>
+    </task>
+    <task id="LOCAL-00005" summary="percyFigma.yml added - figma upload works">
+      <created>1706186047052</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706186047052</updated>
+    </task>
+    <task id="LOCAL-00006" summary="figma update">
+      <created>1706186640410</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706186640411</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update percytest">
+      <created>1706186974341</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706186974341</updated>
+    </task>
+    <task id="LOCAL-00008" summary="jenkinsfile added">
+      <created>1706284837337</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706284837337</updated>
+    </task>
+    <task id="LOCAL-00009" summary="all">
+      <created>1706285227782</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706285227782</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix jenkinsfile">
+      <created>1706285367565</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706285367565</updated>
+    </task>
+    <task id="LOCAL-00011" summary="jenkinsfile fix">
+      <created>1706286332254</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706286332254</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix">
+      <created>1706286440684</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1706286440684</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix">
+      <created>1706286642849</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706286642849</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix">
+      <created>1706287230945</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706287230945</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fx">
+      <created>1706287299317</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1706287299317</updated>
+    </task>
+    <task id="LOCAL-00016" summary="node">
+      <created>1706287570024</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1706287570024</updated>
+    </task>
+    <task id="LOCAL-00017" summary="node">
+      <created>1706287617177</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1706287617177</updated>
+    </task>
+    <task id="LOCAL-00018" summary="cy">
+      <created>1706287743195</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1706287743195</updated>
+    </task>
+    <task id="LOCAL-00019" summary="token">
+      <created>1706287855574</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1706287855574</updated>
+    </task>
+    <task id="LOCAL-00020" summary="fix token">
+      <created>1706288104740</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1706288104740</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="first action" />
+    <MESSAGE value="Create README.md" />
+    <MESSAGE value="tst" />
+    <MESSAGE value="1. live test ikra" />
+    <MESSAGE value="percy-figma temp.yml" />
+    <MESSAGE value="percyFigma.yml added - figma upload works" />
+    <MESSAGE value="figma update" />
+    <MESSAGE value="update percytest" />
+    <MESSAGE value="jenkinsfile added" />
+    <MESSAGE value="all" />
+    <MESSAGE value="fix jenkinsfile" />
+    <MESSAGE value="jenkinsfile fix" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="fx" />
+    <MESSAGE value="node" />
+    <MESSAGE value="cy" />
+    <MESSAGE value="token" />
+    <MESSAGE value="fix token" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix token" />
+  </component>
+</project>

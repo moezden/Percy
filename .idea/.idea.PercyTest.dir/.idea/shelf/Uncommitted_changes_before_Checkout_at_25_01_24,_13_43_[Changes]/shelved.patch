@@ -1,0 +1,19 @@
+Index: cypress/e2e/Percy/percytest.cy.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import '@percy/cypress';\n\ndescribe('Integration test with visual testing', function() {\n    it('Loads the homepage', function() {\n        // Load the page or perform any other interactions with the app.\n        cy.visit('https://www.ikrabau.de'); // URL should be a string\n        // Take a snapshot for visual diffing\n        cy.percySnapshot('Landingpage test', { widths: [768, 992, 1200] });\n    });\n});
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/cypress/e2e/Percy/percytest.cy.js b/cypress/e2e/Percy/percytest.cy.js
+--- a/cypress/e2e/Percy/percytest.cy.js	(revision 2589f288210427f97240fbbbbf868840c9f109bd)
++++ b/cypress/e2e/Percy/percytest.cy.js	(date 1706186096719)
+@@ -5,6 +5,6 @@
+         // Load the page or perform any other interactions with the app.
+         cy.visit('https://www.ikrabau.de'); // URL should be a string
+         // Take a snapshot for visual diffing
+-        cy.percySnapshot('Landingpage test', { widths: [768, 992, 1200] });
++        cy.percySnapshot('IKRA Homepage', { widths: [1920] });
+     });
+ });
+\ No newline at end of file
