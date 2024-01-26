@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0ed4196-3e65-4ef7-aa4f-49e9b7888f2a" name="Changes" comment="ds">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress.json" beforeDir="false" afterPath="$PROJECT_DIR$/cypress.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
       <workItem from="1706260783431" duration="622000" />
       <workItem from="1706283522364" duration="1999000" />
       <workItem from="1706285643754" duration="642000" />
-      <workItem from="1706286289598" duration="2716000" />
+      <workItem from="1706286289598" duration="3044000" />
     </task>
     <task id="LOCAL-00001" summary="Create README.md">
       <created>1705769422819</created>
@@ -239,7 +239,28 @@
       <option name="project" value="LOCAL" />
       <updated>1706288831746</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="as">
+      <created>1706289014545</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1706289014545</updated>
+    </task>
+    <task id="LOCAL-00027" summary="fx">
+      <created>1706289066655</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1706289066655</updated>
+    </task>
+    <task id="LOCAL-00028" summary="ds">
+      <created>1706289157143</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1706289157143</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,9 +299,9 @@
     <MESSAGE value="cy" />
     <MESSAGE value="token" />
     <MESSAGE value="fix token" />
-    <MESSAGE value="fx" />
-    <MESSAGE value="as" />
     <MESSAGE value="json" />
+    <MESSAGE value="as" />
+    <MESSAGE value="fx" />
     <MESSAGE value="ds" />
     <option name="LAST_COMMIT_MESSAGE" value="ds" />
   </component>
